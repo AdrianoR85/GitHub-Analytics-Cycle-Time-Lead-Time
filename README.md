@@ -95,6 +95,8 @@ Open `github_dashboard.pbix` in Power BI Desktop and refresh the data source poi
 
 ## Dashboard
 
+![](./dashbboard.png)
+
 The Power BI dashboard includes:
 
 - **Total Pull Requests** — total volume of merged PRs
